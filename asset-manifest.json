@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-simple-speech-app/static/css/main.35bf68cb.css",
+    "main.js": "/the-simple-speech-app/static/js/main.057b1acd.js",
+    "static/js/787.8449b378.chunk.js": "/the-simple-speech-app/static/js/787.8449b378.chunk.js",
+    "index.html": "/the-simple-speech-app/index.html",
+    "main.35bf68cb.css.map": "/the-simple-speech-app/static/css/main.35bf68cb.css.map",
+    "main.057b1acd.js.map": "/the-simple-speech-app/static/js/main.057b1acd.js.map",
+    "787.8449b378.chunk.js.map": "/the-simple-speech-app/static/js/787.8449b378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35bf68cb.css",
+    "static/js/main.057b1acd.js"
+  ]
+}
