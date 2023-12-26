@@ -30,6 +30,7 @@ An accordion-style component providing information about the Flesch-Kincaid Grad
 
 ## Dependencies
 React: The core library for building the user interface.
+
 Bootstrap: A popular CSS framework for styling.
 
 ## License
