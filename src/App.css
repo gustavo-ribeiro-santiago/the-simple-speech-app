@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.about {
+  margin-top: 16px;
+}
+
+.main-section{
+  display: block;
+}
+
+div .textbox{
+  width: 96%;
+  margin: 16px 8px;
+}
+
+.textbox-legend{
+  width: 75%;
+}
+
+.results{
+  margin: 20px 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding: 8px;
+  color: white;
+}
+
+@media (min-width: 768px) {
+  .main-section{
+    display: flex;
+  }
+  
+  div .textbox{
+    width: 75%;
+    margin: 16px 8px;
+  }
+
+  .textbox-legend{
+    width: 75%;
+  }
+
+  .results{
+    margin: 20px 20px;
+    width: 30%;
+  }
+}
