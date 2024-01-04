@@ -3,7 +3,7 @@
 This web app allows you to assess the readability of a given speech using the Flesch-Kincaid Grade Level test. It provides a user-friendly interface for entering a speech and instantly obtaining the corresponding grade level score.
 
 ## How to Run
-Access web app [here](gustavo-ribeiro-santiago.github.io/the-simple-speech-app) or clone this repository to run it on your local machine.
+Access web app [here](https://gustavo-ribeiro-santiago.github.io/the-simple-speech-app) or clone this repository to run it on your local machine.
 
 ## How to Use
 1. Enter your speech in the provided text area.
